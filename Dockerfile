@@ -1,1 +1,1 @@
-FORM gitlab/gitlab-ce:latest
+FROM gitlab/gitlab-ce:latest
